@@ -28,6 +28,8 @@ let person = {
     name:"kavya",
     age:19
 }
+console.log(person["name"])
+console.log(person["age"])
 console.log(person.name)
 console.log(person.age)
 console.log(typeof person)
